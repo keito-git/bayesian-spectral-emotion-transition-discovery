@@ -1,0 +1,10 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+pyarrow>=14.0
+# Optional: GRU and DistilBERT downstream baselines
+torch>=2.0
+transformers>=4.35
+# Optional: DailyDialog-LLM virtual annotation
+openai>=1.0
