@@ -1,0 +1,12 @@
+{
+  "baseline_lag5": {
+    "macro_f1": 0.2646474602277845,
+    "weighted_f1": 0.46065777879074843
+  },
+  "with_bsetd_lift": {
+    "macro_f1": 0.2646474602277845,
+    "weighted_f1": 0.46065777879074843
+  },
+  "delta_macro_f1": 0.0,
+  "delta_weighted_f1": 0.0
+}
